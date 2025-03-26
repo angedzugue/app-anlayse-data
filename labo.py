@@ -16,6 +16,7 @@ st.title(" Analyse des Ventes - Beans & Pods")
 
 
 
+
 st.markdown("""
  
 Ce projet  permet d'analyser les données de vente de différents types de café, selon le canal de vente et la région.
